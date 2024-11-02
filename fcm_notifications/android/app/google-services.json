@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881862241580",
+    "project_id": "advanced-projs",
+    "storage_bucket": "advanced-projs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881862241580:android:b387f7dff00b38747b1089",
+        "android_client_info": {
+          "package_name": "com.example.fcm_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0OayNK0x0kVqxTqtEBKje2xAta3811o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
